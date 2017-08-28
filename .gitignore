@@ -1,0 +1,40 @@
+# Environment Configuration
+.env
+
+# Build output folders
+build
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# IntelliJ IDE ignore
+.idea
+
+# Visual Studio Code
+.vscode
+.history
+
+# Happypack
+.happypack
+
+# OSX Files
+.DS_Store
+
+# Developer config preferences
+.devconfig
+
+# Jest coverage output
+/coverage
